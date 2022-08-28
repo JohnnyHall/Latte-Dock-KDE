@@ -1,7 +1,7 @@
 # 🖤 Latte Dock KDE Theme
 > Latte dock is a dock created for linux, I developed my own theme for KDE based on my personal preferences and decided to share it
 
-## 📜 Requiremednts
+## 📜 Requirements
 1. latte dock
 
 ## 👤 Developers
